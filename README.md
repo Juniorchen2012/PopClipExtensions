@@ -8,3 +8,5 @@ Extension for Transfer2U
 
 2.![t2u icon](http://imgt3.bdstatic.com/it/u=1380730857,2444281320&fm=116&gp=0.jpg) generate QR
 二维码
+3.unicode->UTF-8
+4.pushbullet
