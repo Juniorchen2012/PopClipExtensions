@@ -14,3 +14,5 @@ Extension for Transfer2U
 ##4![pushbullet icon](https://farm8.staticflickr.com/7088/13575543233_1c6e6c03c6_s.jpg)pushbullet
 ####shell script:curl
 ps:[PopClipExtension Dev](https://github.com/pilotmoon/PopClip-Extensions#before-and-after-keys)
+ 
+ [PopClipExtension Sample tu](http://computers.tutsplus.com/tutorials/create-your-own-custom-extension-for-popclip--mac-50637)
